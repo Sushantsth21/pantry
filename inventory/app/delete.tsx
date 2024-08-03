@@ -20,7 +20,7 @@ const DeleteItem: React.FC<DeleteItemProps> = ({ id }) => {
   return (
     <button
       onClick={handleDelete}
-      className="border bg-red-400 p-1 rounded text-white"
+      className="btn btn-warning"
     >
       Delete Item
     </button>
