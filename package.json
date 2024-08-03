@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@firebase/firestore": "^4.6.5",
+    "firebase": "^10.12.5",
+    "mongodb": "^6.8.0"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.10"
+  }
+}
