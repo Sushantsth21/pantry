@@ -1,4 +1,4 @@
-import db from "./firebase/firestore"
+import db from "../firebase/firestore"
 import { doc, deleteDoc } from "firebase/firestore"
 
 interface DeleteItemProps {
